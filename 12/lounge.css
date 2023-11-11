@@ -1,0 +1,26 @@
+    <style>
+		p {
+				background-color: grey;
+				border: 1px solid red;
+			}
+h1, h2 {
+  font-family: Arial;
+  color: grey;
+}
+
+
+h1 {
+  border-bottom：1px solid black;
+}
+
+p {
+  color: maroon;
+}
+p{
+  font-family: Arial;
+  color: maroon;
+   }
+em {
+  font-family: "Cascadia Mono"; /* 注意双引号这个细节，想想原因 */
+}
+</style>
